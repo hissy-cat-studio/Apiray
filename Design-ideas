@@ -16,17 +16,21 @@ Beeswax
 
 Game board made from individual carboard hexes
 
-bees vomit in a chain (B2B2B) of 3 different bees (game rule) before filling a honeycomb.
+bees vomit in a chain (B2B2B) of 3 different bees (game rule) before filling a honeycomb with honey.
 
-Worker takes one turn to fill a honeycomb.
+Worker bee takes one turn to fill a honeycomb.
 
-two turns (game rule) to produce honey.
+takes two turns (game rule) to produce three honey.
 
-two turns to produce worker bee, after honeycomb filled by queen with larva and pollen.
+take two turns to produce worker bee, after honeycomb filled by queen with larva and by worker bee with pollen.
 
-one trun to produce a new honeycomb
+takes one turn for worker bee to produce a new honeycomb.
 
-visit five flowers to collect necter and pollen
+queen bee can fill three honeycombs a turn with a bee larva.
+
+visit five flowers to collect necter and pollen.
+
+bee upkeep, one honey per bee per turn.
 
 
 
