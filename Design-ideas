@@ -5,14 +5,16 @@ A 2-6 player game about making honey.
 Bee types
 
 Queen (Female)
-Drone (male)
+Drone (male) - may have no role in game (used to create a queen bee).
 Worker (Female)
 
 Necter
 Pollen
 
-Royal Jelly
+Royal Jelly - may have no role in game (used to create a queen bee).
 Beeswax
+honey
+
 
 Game board made from individual carboard hexes
 
